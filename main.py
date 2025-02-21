@@ -1,5 +1,5 @@
 def main():
-    print("Hello from spotifydataproject!")
+    print('Hello from spotifydataproject!')
 
 
 if __name__ == "__main__":
