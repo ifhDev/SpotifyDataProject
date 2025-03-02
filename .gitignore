@@ -12,3 +12,6 @@ wheels/
 # data folder
 data/
 visuals/
+
+# personal notes
+model_tuning_log.txt
