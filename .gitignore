@@ -14,5 +14,4 @@ data/
 visuals/
 
 # personal notes
-model_tuning_log.txt
-EDA_scratchpad.ipynb
+personal_notes/
