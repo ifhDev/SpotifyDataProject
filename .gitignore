@@ -13,5 +13,6 @@ wheels/
 data/
 visuals/
 
-# personal notes
-personal_notes/
+# dev notes
+dev_notes/
+notebooks/EDA_scratchpad.ipynb
