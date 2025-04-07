@@ -10,9 +10,8 @@ wheels/
 .venv
 
 # data folder
-data/
+src/data/*
 visuals/
 
 # dev notes
 dev_notes/
-notebooks/EDA_scratchpad.ipynb

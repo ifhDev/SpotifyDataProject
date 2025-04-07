@@ -1,9 +1,11 @@
 # Spotify Danceability Prediction & Music Feature Analysis
 
 ## Project Overview
+
 This project analyzes Spotify song data to understand what makes a song danceable and builds machine learning models to predict danceability. Using a dataset from October 2022, we investigate the relationships between various audio features and a song's danceability score.
 
 ## Features
+
 - Exploratory Data Analysis (EDA) of Spotify audio features
 - Feature engineering for enhanced prediction
 - Machine learning models for danceability prediction:
@@ -13,6 +15,7 @@ This project analyzes Spotify song data to understand what makes a song danceabl
 - Meta-genre analysis and classification
 
 ## Key Findings
+
 - Achieved 84.19% accuracy in predicting song danceability
 - Identified key features influencing danceability:
   - Energy levels
@@ -25,12 +28,15 @@ This project analyzes Spotify song data to understand what makes a song danceabl
   - Meta-genre classifications
 
 ## Model Performance
+
 ### Linear Regression (Baseline)
+
 - Used polynomial features (degree=2) with interaction terms
 - RMSE: 12.88%
 - R² Score: 47.65%
 
 ### Random Forest Classification
+
 - Binary classification (top 25% as danceable)
 - Performance metrics:
   - Accuracy: 84.19%

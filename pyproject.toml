@@ -1,11 +1,12 @@
 [project]
 name = "spotifydataproject"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.1"
+description = "A regression-focused analysis of Spotify data predicting danceability."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "imblearn>=0.0",
+    "ipykernel>=6.29.0",
     "jupyter>=1.1.1",
     "kaggle>=1.6.17",
     "matplotlib>=3.10.0",
@@ -13,4 +14,5 @@ dependencies = [
     "pytest>=8.3.4",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
 ]
